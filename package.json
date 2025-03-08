@@ -1,5 +1,5 @@
 {
-  "name": "afkbot",
+  "name": "afkbotmc",
   "version": "1.0.0",
   "description": "A Minecraft AFK bot using Mineflayer",
   "main": "index.js",
